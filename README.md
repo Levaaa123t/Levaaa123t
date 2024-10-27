@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## Мои навыки:
+<img src=" [width](https://storage.tally.so/3f9bac6c-8fd5-40ae-a50b-096d362d2fe8/136443.png)="10%">
 <!--
 **Levaaa123t/Levaaa123t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
