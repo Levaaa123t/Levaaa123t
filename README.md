@@ -1,10 +1,8 @@
 ## Hi there 👋
 ## Мои навыки:
-<img src="https://storage.tally.so/3f9bac6c-8fd5-40ae-a50b-096d362d2fe8/136443.png" width="10%"> <img src="https://storage.tally.so/551f6f1e-00a2-4a15-9c33-b40ca5c84113/Git-Logo-2Color.png" width="10%">
+<img src="https://storage.tally.so/3f9bac6c-8fd5-40ae-a50b-096d362d2fe8/136443.png" width="10%">   <img src="https://storage.tally.so/551f6f1e-00a2-4a15-9c33-b40ca5c84113/Git-Logo-2Color.png" width="10%">
 
-
-
-![Pytest_logo svg](https://github.com/user-attachments/assets/e55005a5-4e93-4b02-998b-b6277e37d0e7)
+<img src = 'https://storage.tally.so/225a5e64-ebe2-49ea-8359-415c1ad93023/Pytest_logo.svg.png' width = '10%'>
 
 <!--
 **Levaaa123t/Levaaa123t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
